@@ -5,4 +5,5 @@ Principais recursos utilizados:
   - RecyclerView
   - Google Maps SDK
   - Banco de dados usando Room
+  - Notificações Android
   - Fragmentos de View
